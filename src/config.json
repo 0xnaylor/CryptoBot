@@ -1,6 +1,4 @@
 {
-  "COINBASE_API_KEY": "JsG4vLYoRXedyurI",
-  "COINBASE_API_SECRET": "sRfy2T50MliORhPQXR9Ghweysuh3BpVF",
   "MONGO_URL": "mongodb://127.0.0.1:27017",
   "MONGO_DATABASE_NAME": "cryptotrader"
 }
